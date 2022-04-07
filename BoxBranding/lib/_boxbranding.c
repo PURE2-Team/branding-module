@@ -125,3 +125,4 @@ void initboxbranding() {
 	Py_InitModule("boxbranding", boxbrandingMethods);
 
 }
+#endif
